@@ -25,4 +25,4 @@ Indice
   - Cosa non ha funzionato bene e non rifarei in futuro
   - Cosa farei di nuovo
 ```
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/acioce8/demo3/blob/master/doc/img/Untitled%20Diagram%20(8).png "Logo Title Text 2"
