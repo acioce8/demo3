@@ -25,4 +25,4 @@ Indice
   - Cosa non ha funzionato bene e non rifarei in futuro
   - Cosa farei di nuovo
 ```
-![Benjamin Bannekat](https://github.com/acioce8/demo3/blob/master/doc/img/Untitled%20Diagram%20(8).png)
+![](https://github.com/acioce8/demo3/blob/master/doc/img/Untitled%20Diagram%20(8).png)
